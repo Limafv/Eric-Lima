@@ -1,16 +1,13 @@
 #
 
-<table>
-  <a href="https://github.com/Limafv">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=limafv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limafv&layout=compact&langs_count=6&theme=tokyonight"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="120" alt="Python">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Power_BI_Logo.svg" width="120" alt="Power BI">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Excel_Logo_2013.svg" width="120" alt="Excel">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="120" alt="SQL">
-</table>
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-lima71)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/limaxsp__/profilecard/?igsh=MWtmeDJwcGh6NGFodA==)
 
-<div> 
-  <a href = "mailto: erico.lima2005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/limafv" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+![limafv's GitHub stats](https://github-readme-stats.vercel.app/api?username=limafv&show_icons=true&theme=tokyonight)
+
+## Tecnologias que eu uso no meu cotidiano
+
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![html5](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
